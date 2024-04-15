@@ -1,0 +1,192 @@
+* {
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.s50 {
+    float: left;
+    width: 50%;
+    height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.ss1 {
+    background-image: url(../img/sub01.jpg);
+}
+
+.ss2 {
+    background-image: url(../img/sub02.jpg);
+}
+
+.ss3 {
+    background-image: url(../img/sub03.jpg);
+    background-color: black;
+}
+
+.ss4 {
+    background-image: url(../img/sub04.jpg);
+}
+
+.ss5 {
+    background-image: url(../img/sub05.jpg);
+}
+
+.ss6 {
+    background-image: url(../img/sub06.jpg);
+}
+
+.s100 {
+
+    width: 100%;
+    height: 600px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 7px;
+}
+
+.s100-2 {
+
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 7px;
+}
+
+.iphone15pro {
+    background-image: url('../img/hero_iphone15pro__i70z9oz3hj2i_medium.jpg');
+    background-color: black;
+}
+
+.iphone15 {
+    background-image: url('../img/hero_iphone15_announce__uuemlcwczn6u_medium.jpg');
+
+}
+
+.watch {
+    background-image: url('../img/hero_apple_watch_series_9_order__d0fi9mb84dci_medium.jpg');
+    background-color: black;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    padding-top: 10px;
+}
+
+li {
+    display: inline;
+    padding-inline: 20px;
+    padding-top: 15px;
+}
+
+nav {
+    background-color: E5E4E2;
+    height: 40px;
+}
+
+nav a {
+    color: black;
+    font-size: 13px;
+    text-decoration: none;
+    font-family: helvetica;
+}
+
+nav img {
+    height: 15px;
+}
+
+nav ul li a:hover {
+    color: white;
+    background-color: grey;
+}
+
+.texto-normal {
+    padding: 20px;
+    font-size: 20px;
+}
+
+.espacio-titulo {
+    padding-top: 80px;
+    width: 550px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    font-weight: normal;
+    font-family: helvetica;
+    color: #0071E3;
+    size: 20px;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.enlaces.azul {
+    padding-top: 5px;
+}
+
+h2 {
+    font-size: 55px;
+    font-weight: bold;
+    font-family: helvetica;
+    text-align: center;
+}
+
+h3 {font-size: 30px;
+    font-weight: normal;
+    font-family: helvetica;
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+#series9{
+    color: darkred;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: helvetica;
+    text-align: center;
+}
+
+.txt-blanco{
+    color:white;
+}
+
+.tam-mini h2{
+    font-size: 40px;
+}
+
+.tam-mini h3{
+    font-size: 20px;
+}
+
+.tam-mini a{
+    font-size: 16px;
+}
+
+.pie-sup{
+    padding: 55px;
+}
+
+.pie-inf{
+    padding: 0;
+}
+
+.pie-col{
+    width:20%;
+    margin-bottom: 5px;
+    float:left;
+}
+
+footer ul li{
+    display: list-item;
+    text-align: left;
+}
